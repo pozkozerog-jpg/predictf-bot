@@ -1,0 +1,13 @@
+pyTelegramBotAPI==4.12.0
+requests==2.31.0
+python-dateutil==2.8.2
+pytz==2024.1
+
+# Локальная ML модель (scikit-learn) - БЕЗ OpenAI
+psycopg2-binary
+openpyxl
+joblib
+numpy
+pandas
+scikit-learn
+xgboost
